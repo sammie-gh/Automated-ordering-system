@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/white</color>
+    <color name="colorPrimaryDark">#34475c</color>
+    <color name="colorAccent">@android:color/white</color>
+
+
+    <color name="materialBlue">#34475c</color>
+    <color name="btnSignUp">#39796b</color>
+    <color name="btnSignActive">#A9d440</color>
+
+    <color name="overlayBackground">#7f333639</color>
+    <color name="overlayActionBar">#0e0d03</color>
+
+    <color name="grey">#bfbfbf</color>
+    <color name="white">#fff</color>
+
+</resources>

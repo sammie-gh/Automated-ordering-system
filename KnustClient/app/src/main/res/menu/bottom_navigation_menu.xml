@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_menu"
+        android:enabled="true"
+        android:icon="@drawable/ic_restaurant_black_24dp"
+
+        android:title="Menu">
+    </item>
+
+
+    <item
+        android:id="@+id/ic_cart"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+
+        android:enabled="true"
+
+        android:title="Cart">
+    </item>
+
+
+
+    <item
+        android:id="@+id/nav_orders"
+        android:enabled="true"
+        android:icon="@drawable/ic_access_time_black_24dp"
+        android:title="Tables"
+       >
+
+</item>
+
+
+    <!--<item-->
+        <!--android:id="@+id/nav_about"-->
+        <!--android:enabled="true"-->
+        <!--android:icon="@drawable/ic_access_time_black_24dp"-->
+        <!--android:title="About"-->
+        <!--&gt;-->
+
+    <!--</item>-->
+
+
+</menu>

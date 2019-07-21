@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "104708882009",
+    "firebase_url": "https://myproject-7048d.firebaseio.com",
+    "project_id": "myproject-7048d",
+    "storage_bucket": "myproject-7048d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104708882009:android:70a2aa97ebd6f263",
+        "android_client_info": {
+          "package_name": "com.project.sam.knustclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104708882009-n9hvgbl4r6ljdsivce274gb84e62eqga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-wDn9d11vbUG6pfBfZSQ0Vl9nYgzB29I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104708882009-n9hvgbl4r6ljdsivce274gb84e62eqga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
